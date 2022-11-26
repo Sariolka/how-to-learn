@@ -75,16 +75,39 @@ z-index: 2;
   margin-top: 80px;
 }
 
+description{
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
 .two-columns{
   display: flex;
-  flex-direction: column;
-  border-style: solid;
-  color: red;
+  align-items: baseline;
+  margin: 0 auto;
+  width: 80%;
+
 }
 .two-columns__brief{
   width: 175px;
+  display: flex;
+  color:  #2f80ed;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
 }
 .two-columns__paragraph{
   width: 80%;
   min-width: 784px;
+  margin: 0;
+}
+
+.two-columns__main-text{
+  display: flex;
+  flex-direction: column;
+  margin: 0 70px;
+  align-items: center;
+}
+
+.two-columns__span-accent{
+  margin: 10px 0;
 }
