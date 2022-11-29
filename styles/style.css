@@ -100,7 +100,7 @@
 }
 
 .two-columns__main-text{
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
 }
 
@@ -243,7 +243,7 @@
   z-index: 0;
   top: 0;
   background-size: cover;
-  z-index: 0;
+  background-image: url(../images/kaufman-triangle.svg);
 }
 
 .section-title_theme_dark{
@@ -336,6 +336,7 @@
   
 }
 
+
 .footer__column_content_social{
   line-height: 30px;
   font-size: 18px;
@@ -357,6 +358,7 @@
 
 .footer__social-icon{
   margin-right: 10px;
+  
 }
 
 li{
