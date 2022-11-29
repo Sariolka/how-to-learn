@@ -343,11 +343,6 @@
   font-weight: 600;
 }
 
-.icon{
-  height: 16px;
-  width: 16px;
-}
-
 .link{
   line-height: 30px;
   font-size: 18px;
@@ -356,9 +351,13 @@
   color: #f2f2f2;
 }
 
+icon{
+  height: 16px;
+  width: 16px;
+}
+
 .footer__social-icon{
   margin-right: 10px;
-  
 }
 
 li{
