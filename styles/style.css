@@ -137,11 +137,6 @@
   font-weight: 600;
 }
 
-.section-title_theme_dark {
-  position: relative;
-  z-index: 1;
-}
-
 .section-subtitle {
   width: 60%;
   margin: auto;
@@ -149,11 +144,6 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-}
-
-.section-subtitle_theme_dark {
-  position: relative;
-  z-index: 1;
 }
 
 .table {
@@ -165,21 +155,11 @@
   padding-left: 0;
 }
 
-.table_theme_dark {
-  position: relative;
-  z-index: 1;
-}
-
 .table__cell {
   width: 250px;
   margin-top: 60px;
   list-style-type: none;
   padding-left: 0;
-}
-
-.table__cell_theme_dark {
-  margin-top: 80px;
-  width: 200px;
 }
 
 .table__heading {
@@ -189,19 +169,11 @@
   margin: 0 auto;
 }
 
-.table__heading_theme_dark {
-  
-}
-
 .table__text {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   margin: 20px auto 0;
-}
-
-.table__text_theme_dark {
-  
 }
 
 .feynman {
@@ -271,6 +243,34 @@
   top: 0;
   background-size: cover;
   background-image: url(../images/kaufman-triangle.svg);
+}
+
+.section-title_theme_dark {
+  position: relative;
+  z-index: 1;
+}
+
+.section-subtitle_theme_dark {
+  position: relative;
+  z-index: 1;
+}
+
+.table_theme_dark {
+  position: relative;
+  z-index: 1;
+}
+
+.table__cell_theme_dark {
+  margin-top: 80px;
+  width: 200px;
+}
+
+.table__heading_theme_dark {
+  
+}
+
+.table__text_theme_dark {
+  
 }
 
 .footer {
