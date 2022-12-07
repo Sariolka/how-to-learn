@@ -1,0 +1,9 @@
+@import url(/blocks/description/two-columns/two-columns.css);
+@import url(/blocks/description/two-columns/__brief/two-columns__brief.css);
+@import url(/blocks/description/two-columns/__main-text/two-columns__main-text.css);
+@import url(/blocks/description/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(/blocks/description/two-columns/__span-accept/two-columns__span-accept.css);
+
+.description {
+    margin-top: 100px;
+  }
