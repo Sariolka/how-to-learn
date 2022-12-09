@@ -6,7 +6,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/tecniques/tecniques.css);
 @import url(../blocks/video/video.css);
-
+@import url(../blocks/oakley/oakley.css);
 
 .page {
     min-width: 1100px;
