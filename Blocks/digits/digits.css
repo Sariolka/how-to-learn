@@ -4,3 +4,8 @@
 @import url(/blocks/digits/table/__cell/table__cell.css);
 @import url(/blocks/digits/table/__heading/table__heading.css);
 @import url(/blocks/digits/table/__text/table__text.css);
+
+.digits {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
